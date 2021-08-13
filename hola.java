@@ -9,6 +9,7 @@ public class hola{
         System.out.println(numero);
         double  numero2 = 9 ;
         System.out.println("la suma de los números es: " +( numero + numero2));
+        System.out.println("------------------------------------------------");
 
     }
 
