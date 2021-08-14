@@ -11,6 +11,10 @@ public class hola{
         System.out.println("la suma de los números es: " +( numero + numero2));
         System.out.println("------------------------------------------------");
         System.out.println("Git");
+        boolean bol = true ;
+        if(bol = true){
+            System.out.println("true");
+        }
 
     }
 
