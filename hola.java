@@ -15,7 +15,10 @@ public class hola{
         if(bol = true){
             System.out.println("true");
         }
-
+        else if(bol = false){
+            System.out.println("false");
+        }
+        System.out.println("--------------------------------------------------");
     }
 
 }
